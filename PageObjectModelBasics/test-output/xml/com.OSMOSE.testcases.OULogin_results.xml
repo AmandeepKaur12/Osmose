@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="OULogin"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="20.200">
+  <properties />
+  
+  
+            <testcase name="verifyProductCard" time="0.050" classname="com.OSMOSE.testcases.OULogin" />
+                <testcase name="loginTest" time="17.215" classname="com.OSMOSE.testcases.OULogin" />
+                <testcase name="verifyOUCard" time="2.935" classname="com.OSMOSE.testcases.OULogin" />
+      
+</testsuite>
